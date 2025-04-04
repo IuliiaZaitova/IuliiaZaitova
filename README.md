@@ -59,14 +59,14 @@ I’m passionate about improving the performance of multilingual NLP systems by 
 
 Here are a few projects that showcase my research and engineering work:
 
+- [**Attention on Multiword Expressions: A Multilingual Study of BERT-based Models with Regard to Idiomaticity and Microsyntax**](https://github.com/IuliiaZaitova/mwe-attention)
+  Code, models, and data for the paper "Attention on Multiword Expressions: A Multilingual Study of BERT-based Models with Regard to Idiomaticity and Microsyntax"
+
 - [**non-compositional-expressions-slavic**](https://github.com/IuliiaZaitova/non-compositional-expressions-slavic)  
   Code and resources for analyzing non-compositional expressions across Slavic languages.
 
 - [**Microsyntactic-Unit-Detection-using-Word-Embedding-Models-Slavic-Languages**](https://github.com/IuliiaZaitova/Microsyntactic-Unit-Detection-using-Word-Embedding-Models-Slavic-Languages)  
   BERT-based microsyntactic unit detection across Russian, Ukrainian, and Polish.
-
-- [**spoken-non-compositional-expressions-slavic**](https://github.com/IuliiaZaitova/spoken-non-compositional-expressions-slavic)  
-  Modeling intelligibility of non-compositional expressions in speech across Slavic languages.
 
 ---
 
