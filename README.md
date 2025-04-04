@@ -1,16 +1,21 @@
 <h1 align="center">Hi there 👋, I'm Iuliia </h1>
 
 <p align="center">
-  <em>PhD Student at Saarland University | Computational Linguist | Multilingual AI Enthusiast</em>
+  <em>PhD Student · Computational Linguist · Multilingual AI Researcher</em>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a PhD student in Computational Linguistics with 5+ years of experience working on machine learning applications in language technology. My research focuses on **large language models**, **cross-lingual transfer**, and **non-compositionality**.
+I'm a PhD student in Computational Linguistics at Universität des Saarlandes with 5+ years of hands-on experience in applied machine learning for natural language and speech processing. My research focuses on:
 
-I work with both **text-based** and **speech-based** models and am passionate about making NLP and AI systems more inclusive, explainable, and effective across languages.
+- 🧠 **Large Language Models**
+- 🌍 **Cross-lingual transfer**
+- 🧩 **Non-compositional expressions** (idioms, microsyntactic units)
+- 🔊 **Speech-text transfer and multilingual intelligibility**
+
+I’m passionate about improving the performance of multilingual NLP systems by understanding what current models still struggle with -- and why. My work combines computational methods, linguistic analysis, and empirical evaluation across Slavic, Germanic, and other languages.
 
 ---
 
@@ -50,9 +55,24 @@ I work with both **text-based** and **speech-based** models and am passionate ab
 
 ---
 
+## 📌 Featured Projects
+
+Here are a few projects that showcase my research and engineering work:
+
+- [**non-compositional-expressions-slavic**](https://github.com/IuliiaZaitova/non-compositional-expressions-slavic)  
+  Code and resources for analyzing non-compositional expressions across Slavic languages.
+
+- [**Microsyntactic-Unit-Detection-using-Word-Embedding-Models-Slavic-Languages**](https://github.com/IuliiaZaitova/Microsyntactic-Unit-Detection-using-Word-Embedding-Models-Slavic-Languages)  
+  BERT-based microsyntactic unit detection across Russian, Ukrainian, and Polish.
+
+- [**spoken-non-compositional-expressions-slavic**](https://github.com/IuliiaZaitova/spoken-non-compositional-expressions-slavic)  
+  Modeling intelligibility of non-compositional expressions in speech across Slavic languages.
+
+---
+
 ## 💡 Side Projects
 
-- 🎉 [plan-event.live](https://plan-event.live) – A playful event planning website I built for fun and practice with front-end design and LLMs.
+- [🎉 plan-event.live](https://plan-event.live) – A playful web app I built for planning and sharing event details. Fun UX project + front-end dev practice!
 
 ---
 
