@@ -1,21 +1,21 @@
 <h1 align="center">Hi there 👋, I'm Iuliia </h1>
 
 <p align="center">
-  <em>PhD Student · Computational Linguist · Multilingual AI Researcher</em>
+  <em>PhD Student · Computational Linguistics · Multilingual AI Researcher</em>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a PhD student in Computational Linguistics at Universität des Saarlandes with 5+ years of hands-on experience in applied machine learning for natural language and speech processing. My research focuses on:
+I'm a PhD student in Computational Linguistics at Universität des Saarlandes with 5+ years of hands-on experience in applied machine learning for natural language and speech processing. In 2025 I also completed a 6 month internship as an Applied Scientist at Amazon. My research mostly focuses on:
 
 - 🧠 **Large Language Models**
 - 🌍 **Cross-lingual transfer**
-- 🧩 **Non-compositional expressions** (idioms, microsyntactic units)
+- 🧩 **Non-compositional expressions and figurative languages**
 - 🔊 **Speech-text transfer and multilingual intelligibility**
 
-I’m passionate about improving the performance of multilingual NLP systems by understanding what current models still struggle with -- and why. My work combines computational methods, linguistic analysis, and empirical evaluation across Slavic, Germanic, and other languages.
+I’m passionate about improving the performance of multilingual NLP systems by understanding what current generative models still struggle with -- and why. My work combines computational methods, linguistic analysis, and empirical evaluation across Slavic, Germanic, and other languages.
 
 ---
 
@@ -24,7 +24,7 @@ I’m passionate about improving the performance of multilingual NLP systems by 
 - **Languages:** Python, Bash, R  
 - **ML/NLP Frameworks:** PyTorch, Hugging Face Transformers, spaCy, NLTK  
 - **Data & Evaluation:** pandas, NumPy, scikit-learn, langchain  
-- **Other tools:** Git, LaTeX, Unix CLI, Docker
+- **Other tools:** Git, LaTeX, Unix CLI, Docker, aws, kubernetes
 
 ---
 
@@ -36,8 +36,8 @@ I’m passionate about improving the performance of multilingual NLP systems by 
 
 ---
 
-## 📚 Recent Publications
-
+## 📚 Major Recent Publications
+- 📄 *Zaitova et al. (2025)*: “It's Not a Walk in the Park! Challenges of Idiom Translation in Speech-to-text Systems” – [ACL]  
 - 📄 *Zaitova et al. (2025)*: “Attention on Multiword Expressions: A Multilingual Study of BERT-based Models with Regard to Idiomaticity and Microsyntax” – [NAACL Findings]  
 - 📄 *Zaitova et al. (2025)*: “It’s Not a Walk in the Park! Challenges of Idiom Translation in Speech-to-text Systems” – [Under Review at ACL]  
 - 📄 *Zaitova et al. (2025)*: “Evaluating GPT Surprisal, Linguistic Distances, and Model Size for Predicting Cross-Language Intelligibility of Non-Compositional Expressions” – [Under Review at ACL]  
@@ -70,11 +70,6 @@ Here are a few projects that showcase my research and engineering work:
 
 ---
 
-## 💡 Side Projects
-
-- [🎉 plan-event.live](https://plan-event.live) – A playful web app I built for planning and sharing event details. Fun UX project + front-end dev practice!
-
----
 
 <!--
 ## 📊 GitHub Stats
